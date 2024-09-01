@@ -1,0 +1,10 @@
+START
+Input "X"
+Input "y"
+Input "z"
+Set sum to 0
+increase the value of x by 1, y times
+store this value as "a"
+increase the value of a by 1, z times
+PRINT
+END
