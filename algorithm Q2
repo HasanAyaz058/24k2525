@@ -1,0 +1,15 @@
+Control Module
+input numbers from 1 to 12
+save 1 = JANUARY
+save 2 = FEBRUARY
+save 3 = MARCH
+save 4 = APRIL
+save 5 = MAY
+save 6 = JUNE
+save 7 = JULY
+save 8 = AUGUST
+save 9 = SEPTEMBER
+save 10 = OCTOBER
+save 11 = NOVEMBER
+save 12 = DECEMBER
+END
