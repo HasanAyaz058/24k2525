@@ -1,0 +1,12 @@
+START
+Input "x"
+Input "y"
+Input "z"
+set sum to 0
+IF 'x + y' 
+THEN ADD the variables
+PRINT OUTPUT
+IF 'z-y'
+THEN SUBTRACT the variables
+PRINT OUTPUT
+END
