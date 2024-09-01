@@ -1,0 +1,8 @@
+Control Module
+Input N1
+Input N2
+Divide N1 by N2
+If remainder is a whole number then,
+divide the number by 2
+if the remainder has the last digit 0,2,4,6,8 then
+print
