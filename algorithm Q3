@@ -1,0 +1,8 @@
+Control Module
+input two digits
+if the operator is '+' then add the two digits
+if the operator is '-' then subtract the two digits
+if the operator is '*' then multiply the two digits
+if the operator is '/' then divide the two digits
+if the operator is '%' then divide and return the remainder
+END
