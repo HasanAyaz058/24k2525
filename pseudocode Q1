@@ -1,0 +1,11 @@
+START
+INPUT number 1
+INPUT number 2
+INPUT number 3
+SET sum to 0
+IF N1>N2 and N3 THEN
+PRINT " Number 1 "
+IF N2>N1 and N3 THEN
+PRINT " Number 2 "
+ELSE PRINT " Number 3 "
+END
